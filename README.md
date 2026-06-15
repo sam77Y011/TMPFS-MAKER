@@ -1,4 +1,4 @@
- # TMPFS Maker <img src="https://em-content.zobj.net/source/microsoft-teams/363/face-exhaling_1f62e-200d-1f4a8.png" width="28">
+ # TMPFS Maker 🫪
 
 A tiny, playful C++ tool that creates simple TMPFS mounts—because sometimes you just want a RAM-backed filesystem without all the drama.
 
