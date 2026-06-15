@@ -1,4 +1,4 @@
- # TMPFS Maker ![distorted face](https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/1024px/1faea.png)
+ # TMPFS Maker ![distorted face](https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/128px/1faea.png)
 A tiny, playful C++ tool that creates simple TMPFS mounts—because sometimes you just want a RAM-backed filesystem without all the drama.
 
 ## What it does
